@@ -1,2 +1,2 @@
 # Tokenomics Scrape & Analysis
- Gathering tokennomics and supply data from block explorer
+ Gathering tokenomics and supply data from block explorer
